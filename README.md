@@ -1,4 +1,4 @@
-[CS214: System Programming] (https://www.cs.rutgers.edu/course/systems-programming) in Rutgers is an unergraduate class focusing on the basic concepts in linux and unix-like operation system. These are all the notes and code for class CS214 when I was TA for this calss at 2017 Fall.
+[CS214: System Programming](https://www.cs.rutgers.edu/course/systems-programming)in Rutgers is an unergraduate class focusing on the basic concepts in linux and unix-like operation system. These are all the notes and code for class CS214 when I was TA for this calss at 2017 Fall.
 
 I think this class is quite practical not only for the review of the rudimentary knowledge of operation system but also for the intern interview. 
 
@@ -15,7 +15,7 @@ I put **all the reference** here for this class notes.
 
 [class 241 System Programming in illinois](http://cs241.cs.illinois.edu/), perfect resource
 
-[《The Linux Programming Interface》](https://doc.lagout.org/programmation/unix/The%20Linux%20Programming%20Interface.pdf)  give detailed explanation and it is easy to understanding for most interface
+[《The Linux Programming Interface》](https://doc.lagout.org/programmation/unix/The%20Linux%20Programming%20Interface.pdf)  give detailed explanation and it is easy to understanding for most interfaces
 
 《Computer Systems A programmer's Perspective》
 
