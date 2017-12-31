@@ -1,0 +1,3 @@
+Most of the notes refer to the cs241 [here](http://cs241.cs.illinois.edu/wikibook/home.html), I think the form of question and answer is really helpful to test if we have a depth understanding about the knowledge points. For some basic knoledge, I don't think it is necessary to list them again here, I only show the reference for those questions. The most notes focusing on the reflection and advanced issue behind those basic knowledge are easy to be neglected.
+
+Asking the question before answering and explaing what it is may like considering and writing tests before programming, which could push you consider all the cases as much as possible instead of using first impression direactly.
